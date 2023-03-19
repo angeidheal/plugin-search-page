@@ -1,6 +1,6 @@
 ---
-title: "Search"
-url: "/search/"
+title: "Lorg"
+url: "/lorg/"
 menu: "main"
 weight: 100
 ---
